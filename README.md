@@ -8,4 +8,9 @@ a super Modern api created by html
 
 
 # how Use:
-       git clone : 
+       git clone : https://github.com/alisharifyy/Html-Api
+
+ 
+
+
+
